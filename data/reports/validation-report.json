@@ -1,0 +1,162 @@
+[
+  {
+    "packageId": "S1",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S2",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S3",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S4",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [
+      {
+        "id": "S4-TWK-030",
+        "reason": "Merujuk bagian bercetak tebal, tetapi PDF menebalkan seluruh kalimat."
+      }
+    ],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S5",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [
+      {
+        "id": "S5-TWK-001",
+        "reason": "Merujuk kata bercetak miring, tetapi PDF tidak memuat teks miring pada soal ini."
+      }
+    ],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S6",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S7",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S8",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S9",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  },
+  {
+    "packageId": "S10",
+    "total": 110,
+    "counts": {
+      "TWK": 30,
+      "TIU": 35,
+      "TKP": 45
+    },
+    "withTable": 7,
+    "withImage": 8,
+    "errors": [],
+    "manualReview": [],
+    "maxScore": 550,
+    "missingImages": []
+  }
+]

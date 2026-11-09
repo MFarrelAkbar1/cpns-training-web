@@ -1,0 +1,212 @@
+[
+  {
+    "package": "S1",
+    "wordsChecked": {
+      "soal": 8551,
+      "pembahasan": 7405
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S2",
+    "wordsChecked": {
+      "soal": 8260,
+      "pembahasan": 7285
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "jawaban": 6,
+      "Pilihan": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S3",
+    "wordsChecked": {
+      "soal": 8420,
+      "pembahasan": 7151
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S4",
+    "wordsChecked": {
+      "soal": 8195,
+      "pembahasan": 7093
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "jawaban": 6,
+      "Pilihan": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S5",
+    "wordsChecked": {
+      "soal": 8060,
+      "pembahasan": 7419
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S6",
+    "wordsChecked": {
+      "soal": 7805,
+      "pembahasan": 7334
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S7",
+    "wordsChecked": {
+      "soal": 8171,
+      "pembahasan": 7321
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S8",
+    "wordsChecked": {
+      "soal": 8251,
+      "pembahasan": 7496
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S9",
+    "wordsChecked": {
+      "soal": 8437,
+      "pembahasan": 8258
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  },
+  {
+    "package": "S10",
+    "wordsChecked": {
+      "soal": 8162,
+      "pembahasan": 7588
+    },
+    "figureLabelTokensIgnored": {
+      "1": 2,
+      "A": 8,
+      "B": 8,
+      "C": 8,
+      "D": 8,
+      "E": 8,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "Pilihan": 6,
+      "jawaban": 6
+    },
+    "issues": []
+  }
+]
