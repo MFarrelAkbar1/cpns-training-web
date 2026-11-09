@@ -1,0 +1,21 @@
+"use client";
+
+import { Moon, Sun } from "lucide-react";
+import { useTheme } from "next-themes";
+import { Button } from "@/components/ui/button";
+
+export function ThemeToggle() {
+  const { resolvedTheme, setTheme } = useTheme();
+  return (
+    <Button
+      variant="ghost"
+      size="icon"
+      aria-label="Ganti mode terang atau gelap"
+      onClick={() => setTheme(resolvedTheme === "dark" ? "light" : "dark")}
+    >
+      {/* Ikon diatur CSS, sehingga tidak bergantung pada tema saat hydration. */}
+      <Sun className="hidden dark:block" aria-hidden />
+      <Moon className="dark:hidden" aria-hidden />
+    </Button>
+  );
+}
